@@ -1,3 +1,3 @@
 # LTNC-test 
-   bracnh: linhma_test
+   branch: linhma_test
  
